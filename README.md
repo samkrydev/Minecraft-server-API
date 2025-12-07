@@ -10,3 +10,14 @@ Data is stored in an in-memory database, making the API lightweight and easy to 
 - Minimal, fast and beginner-friendly API structure
 
 ## Installation
+npm install
+
+## Development
+
+npm run dev
+
+## Production
+
+npm start
+
+The API runs on `http://localhost:3000`.
